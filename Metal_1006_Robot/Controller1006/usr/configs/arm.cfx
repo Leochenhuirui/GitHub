@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<arm>
+  <String name="date" value="23 May 2018  23:39" />
+  <String name="orderNumber" value="F18_5GZXA1_A_01" />
+  <String name="arm" value="tx2_90-S1" />
+  <String name="tuning" value="" />
+  <String name="mount" value="floor" />
+  <Valves>
+    <Valve index="0" >
+      <String name="type" value="52" />
+      <Float name="openDuration" value="0.1" />
+      <Float name="closeDuration" value="0.1" />
+    </Valve>
+    <Valve index="1" >
+      <String name="type" value="52" />
+      <Float name="openDuration" value="0.1" />
+      <Float name="closeDuration" value="0.1" />
+    </Valve>
+  </Valves>
+  <String name="oil" value="STD" />
+  <FloatArray name="minArmJointPos" >
+    <Float index="0" value="-99999" />
+    <Float index="1" value="-99999" />
+    <Float index="2" value="-99999" />
+    <Float index="3" value="-99999" />
+    <Float index="4" value="-99999" />
+    <Float index="5" value="-270" />
+  </FloatArray>
+  <FloatArray name="maxArmJointPos" >
+    <Float index="0" value="99999" />
+    <Float index="1" value="99999" />
+    <Float index="2" value="99999" />
+    <Float index="3" value="99999" />
+    <Float index="4" value="99999" />
+    <Float index="5" value="270" />
+  </FloatArray>
+  <ArmJntRange>
+  </ArmJntRange>
+  <ArmJntRef>
+    <JntReferences id="factoryMarks" category="" name="factoryMarks" level="system" >
+      <FloatArray name="position" >
+        <Float index="0" value="-0.182555" />
+        <Float index="1" value="0.005342" />
+        <Float index="2" value="-0.018215" />
+        <Float index="3" value="-0.12504" />
+        <Float index="4" value="0.21704" />
+        <Float index="5" value="0.532391" />
+      </FloatArray>
+    </JntReferences>
+  </ArmJntRef>
+  <CalibrationArray>
+    <Calibration index="0"  position="4932812" measure="-620510574" df="0.000007" />
+    <Calibration index="1"  position="-11243852" measure="-185999221" df="-0.000001" />
+    <Calibration index="2"  position="2756446" measure="-337182664" df="0.000011" />
+    <Calibration index="3"  position="-11593391" measure="92695668" df="-0.00001" />
+    <Calibration index="4"  position="-3593186" measure="-276283572" df="-0.000004" />
+    <Calibration index="5"  position="-562347" measure="-396281470" df="-0.00001" />
+  </CalibrationArray>
+  <PhasingArray>
+    <Phasing index="0"  zeroElec="1495681007" computedFrom="1495681007" />
+    <Phasing index="1"  zeroElec="1973935455" computedFrom="1973935455" />
+    <Phasing index="2"  zeroElec="1806087181" computedFrom="1806087181" />
+    <Phasing index="3"  zeroElec="96671072" computedFrom="96671072" />
+    <Phasing index="4"  zeroElec="313096" computedFrom="313096" />
+    <Phasing index="5"  zeroElec="0" computedFrom="0" />
+  </PhasingArray>
+  <DhArray name="dhOffset" >
+    <DH index="0" theta="0" d="0" a="0" b="0" alpha="0" beta="0" />
+    <DH index="1" theta="0" d="0" a="0" b="0" alpha="0" beta="0" />
+    <DH index="2" theta="0" d="0" a="0" b="0" alpha="0" beta="0" />
+    <DH index="3" theta="0" d="0" a="0" b="0" alpha="0" beta="0" />
+    <DH index="4" theta="0" d="0" a="0" b="0" alpha="0" beta="0" />
+    <DH index="5" theta="0" d="0" a="0" b="0" alpha="0" beta="0" />
+  </DhArray>
+  <Float name="flangeLengthOffset" value="0" />
+  <StringArray name="motorType" >
+    <String index="0" value="" />
+    <String index="1" value="" />
+    <String index="2" value="" />
+    <String index="3" value="" />
+    <String index="4" value="" />
+    <String index="5" value="" />
+  </StringArray>
+  <Bool name="hardStopAxis1" value="false" />
+  <Bool name="ul" value="false" />
+  <FloatArray name="jntFlexOffset" >
+    <Float index="0" value="0" />
+    <Float index="1" value="0" />
+    <Float index="2" value="0" />
+    <Float index="3" value="0" />
+    <Float index="4" value="0" />
+    <Float index="5" value="0" />
+  </FloatArray>
+</arm>

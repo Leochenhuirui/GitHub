@@ -1,0 +1,165 @@
+﻿{"entry":{"date":"2018-09-21T04:10:27","type":"swap","version":"3.0.0"}}
+{"entry":{"date":"2018-09-21T04:10:27","ts":"4.057067547","type":"msg","lvl":"WARN","id":"0x0002","val":"No file describing the safety program structure found. The default structure will be used."},"hash":"8efd417a6fd58fe1fa"}
+{"entry":{"date":"2018-09-21T04:10:27","ts":"4.060944564","type":"msg","lvl":"WARN","id":"0x0002","val":"Default user payload used."},"hash":"a259be461003805f11"}
+{"entry":{"date":"2018-09-21T04:10:27","ts":"4.061056854","type":"msg","lvl":"INFO","id":"0x0003","val":"Payload default: mass=6 kg, gravity center: x=0 y=0 z=95 mm, diag inertia: xx=0.016 yy=0.013 zz=0.011 kg.m^2"},"hash":"f9e225cc9966a1fdaa"}
+{"entry":{"date":"2018-09-21T04:10:27","ts":"4.062695215","type":"msg","lvl":"INFO","id":"0x0003","val":"Build Cell Done"},"hash":"bdae59e43a38f5cb7c"}
+{"entry":{"val":"'%s' is ready.","data":[{"val":"J207J208 RE/PNS"}],"date":"2018-09-21T04:10:27","ts":"4.094029300","type":"key","lvl":"INFO","id":"0x5D07"},"hash":"8ed58e3ce5f03578fb"}
+{"entry":{"date":"2018-09-21T04:10:27","ts":"4.113921718","type":"msg","lvl":"INFO","id":"0x2401","val":"Power hour count = 10:31:07"},"hash":"4ead4ab385763509f9"}
+{"entry":{"date":"2018-09-21T04:10:27","ts":"4.114145435","type":"msg","lvl":"INFO","id":"0x2401","val":"Mac Address = 00-30-64-54-12-fc"},"hash":"37fca8d82b89f4179d"}
+{"entry":{"date":"2018-09-21T04:10:27","ts":"5.053185674","type":"msg","lvl":"INFO","id":"0x5513","val":"ECM0: Start sub cycle index 6 "},"hash":"1389def4294fce172b"}
+{"entry":{"val":"End of arm power shutdown phase.","date":"2018-09-21T04:10:28","ts":"5.733916975","type":"key","lvl":"INFO","id":"0x1602"},"hash":"6ef1c3181727dcac98"}
+{"entry":{"val":"Safety board status changed to %s.","data":[{"val":"STATUS_INVALID"}],"date":"2018-09-21T04:10:28","ts":"5.741685011","type":"key","lvl":"INFO","id":"0x5909"},"hash":"099f4448e58b540a0f"}
+{"entry":{"val":"Safety board status changed to %s.","data":[{"val":"STATUS_RUNINTERN"}],"date":"2018-09-21T04:10:31","ts":"8.301703901","type":"key","lvl":"INFO","id":"0x5909"},"hash":"ac0fed616d45b36964"}
+{"entry":{"val":"'%s' communication started.","data":[{"val":"J207J208 RE/PNS"}],"date":"2018-09-21T04:10:32","ts":"9.326240136","type":"key","lvl":"INFO","id":"0x5D09"},"hash":"3c923f33e6434d81c9"}
+{"entry":{"date":"2018-09-21T04:10:32","ts":"9.574817500","type":"msg","lvl":"INFO","id":"0x5502","val":"ECM0:  Ethercat Event : Box 2 (D3-SMM 362/A-0250-00) : Invalid ShiftTime : act=0, lowLim=687500, upLim=1000000, warn=1"},"hash":"0639d2da23e5f7e2e9"}
+{"entry":{"date":"2018-09-21T04:10:32","ts":"9.608724190","type":"msg","lvl":"INFO","id":"0x5502","val":"ECM0: Ethercat Event : 'Bus Scan Successful'"},"hash":"05294fc37a37c16a67"}
+{"entry":{"date":"2018-09-21T04:10:32","ts":"9.616031003","type":"msg","lvl":"INFO","id":"0x5501","val":"ECM0: [Box 1 (SBL 3-Port Onboard Switch)] State INIT | master Starting."},"hash":"047d4b98752de1c52c"}
+{"entry":{"date":"2018-09-21T04:10:32","ts":"9.622989945","type":"msg","lvl":"INFO","id":"0x5501","val":"ECM0: [Box 2 (D3-SMM 362/A-0250-00)] State INIT | master Starting."},"hash":"6cd08c85c4941695f6"}
+{"entry":{"date":"2018-09-21T04:10:32","ts":"9.623009882","type":"msg","lvl":"INFO","id":"0x5501","val":"ECM0: [Box 3 (Starc9 0000000000000000000000000000000000)] State INIT | master Starting."},"hash":"08b211fb2495f676ea"}
+{"entry":{"date":"2018-09-21T04:10:32","ts":"9.630288905","type":"msg","lvl":"INFO","id":"0x5501","val":"ECM0: [Box 1 (SBL 3-Port Onboard Switch)] State PREOP | master Starting."},"hash":"81242a9b109713c12c"}
+{"entry":{"date":"2018-09-21T04:10:32","ts":"9.634238596","type":"msg","lvl":"INFO","id":"0x5501","val":"ECM0: [Box 1 (SBL 3-Port Onboard Switch)] State SAFEOP | master Starting."},"hash":"b4db4792eeec52dfee"}
+{"entry":{"date":"2018-09-21T04:10:32","ts":"9.647064916","type":"msg","lvl":"INFO","id":"0x5501","val":"ECM0: [Box 3 (Starc9 0000000000000000000000000000000000)] State PREOP | master Starting."},"hash":"d6d869924b234fb262"}
+{"entry":{"date":"2018-09-21T04:10:32","ts":"9.656896617","type":"msg","lvl":"INFO","id":"0x5501","val":"ECM0: [Box 2 (D3-SMM 362/A-0250-00)] State PREOP | master Starting."},"hash":"2ffd4dbdc243f61043"}
+{"entry":{"date":"2018-09-21T04:10:32","ts":"9.882818067","type":"msg","lvl":"INFO","id":"0x5502","val":"ECM0: Ethercat Event : 'Sync Successful'"},"hash":"fd14cc717a08883740"}
+{"entry":{"date":"2018-09-21T04:10:32","ts":"9.890885439","type":"msg","lvl":"INFO","id":"0x5510","val":"J211 is deactivated"},"hash":"db08370a2193a34a9c"}
+{"entry":{"date":"2018-09-21T04:10:32","ts":"9.934265863","type":"msg","lvl":"INFO","id":"0x5501","val":"ECM0: [Box 2 (D3-SMM 362/A-0250-00)] State SAFEOP | master Started."},"hash":"6f98eecc6f369a040f"}
+{"entry":{"date":"2018-09-21T04:10:32","ts":"10.190406026","type":"msg","lvl":"INFO","id":"0x5501","val":"ECM0: [Box 2 (D3-SMM 362/A-0250-00)] State OP | master Started."},"hash":"c4f5a2cd0e227e6a6b"}
+{"entry":{"val":"Safety board ready.","date":"2018-09-21T04:10:35","ts":"12.301751947","type":"key","lvl":"INFO","id":"0x5901"},"hash":"9c083f08b488a533ea"}
+{"entry":{"val":"Safety signal %s OFF.","data":[{"val":"USIA (J100-1/2)"}],"date":"2018-09-21T04:10:35","ts":"12.301973208","type":"key","lvl":"INFO","id":"0x5914"},"hash":"daeb173a63aecda5d7"}
+{"entry":{"val":"Safety signal %s OFF.","data":[{"val":"USIB (J100-5/6)"}],"date":"2018-09-21T04:10:35","ts":"12.301985407","type":"key","lvl":"INFO","id":"0x5914"},"hash":"5840f6452cc36f3a85"}
+{"entry":{"val":"Safety signal %s OFF.","data":[{"val":"USIC (J100-9/10)"}],"date":"2018-09-21T04:10:35","ts":"12.301994228","type":"key","lvl":"INFO","id":"0x5914"},"hash":"f8b0e7de4fc00378ae"}
+{"entry":{"val":"Safety signal %s OFF.","data":[{"val":"USID (J100-13/14)"}],"date":"2018-09-21T04:10:35","ts":"12.302002357","type":"key","lvl":"INFO","id":"0x5914"},"hash":"2332c551d9b3ef27cc"}
+{"entry":{"val":"Starc Updater Info: %s.","data":[{"val":"Starc DSP firmware version is 9.3 v0.4.1"}],"date":"2018-09-21T04:10:39","ts":"16.690987767","type":"key","lvl":"INFO","id":"0x5701"},"hash":"316429765a4924f9be"}
+{"entry":{"val":"Starc Updater Info: %s.","data":[{"val":"Starc FPGA firmware version is 256.000A-25"}],"date":"2018-09-21T04:10:39","ts":"16.702969310","type":"key","lvl":"INFO","id":"0x5701"},"hash":"08eed3dcb22f8e9ec0"}
+{"entry":{"val":"Starc Updater Info: %s.","data":[{"val":"Starc EEPROM firmware version is 2"}],"date":"2018-09-21T04:10:39","ts":"16.711015167","type":"key","lvl":"INFO","id":"0x5701"},"hash":"3b5cedfaa5fe307f32"}
+{"entry":{"date":"2018-09-21T04:10:39","ts":"16.716920142","type":"msg","lvl":"INFO","id":"0x5510","val":"Found 181 objects in Starc9 SDO"},"hash":"f891e58bcd1e0b0227"}
+{"entry":{"date":"2018-09-21T04:10:40","ts":"17.406981467","type":"msg","lvl":"INFO","id":"0x5501","val":"ECM0: [Box 3 (Starc9 0000000000000000000000000000000000)] State SAFEOP | master Started."},"hash":"208dc15ac42516a064"}
+{"entry":{"date":"2018-09-21T04:10:40","ts":"17.434306907","type":"msg","lvl":"INFO","id":"0x5501","val":"ECM0: [Box 3 (Starc9 0000000000000000000000000000000000)] State OP | master Started."},"hash":"b48c97407148e73532"}
+{"entry":{"val":"DSI state goes to: %u (%s).","data":[{"val":8},{"val":"RUN_LOCAL (safety not activated)"}],"date":"2018-09-21T04:10:40","ts":"17.469931104","type":"key","lvl":"INFO","id":"0x6007"},"hash":"f23abd771dbaa836c7"}
+{"entry":{"val":"DSI state goes to: %u (%s).","data":[{"val":4},{"val":"RUN_BUS (safety activated)"}],"date":"2018-09-21T04:10:40","ts":"17.553895230","type":"key","lvl":"INFO","id":"0x6007"},"hash":"ee7986c98fdf74d5fa"}
+{"entry":{"val":"Safety board status changed to %s.","data":[{"val":"STATUS_RUNNING"}],"date":"2018-09-21T04:10:40","ts":"17.581743440","type":"key","lvl":"INFO","id":"0x5909"},"hash":"001dea664a417f732c"}
+{"entry":{"date":"2018-09-21T04:10:48","ts":"25.277075179","type":"msg","lvl":"INFO","id":"0x0003","val":"File /mnt/usr/configs/safetyStruct.json not found."},"hash":"da52d65a8526162221"}
+{"entry":{"date":"2018-09-21T04:10:48","ts":"25.277112026","type":"msg","lvl":"INFO","id":"0x0003","val":"Impossible to update the safety program structure."},"hash":"6ee6d1fa2d56d56980"}
+{"entry":{"val":"Safe program structure: %u permanent zone(s), %u activable zones(s), %u tool(s).","data":[{"val":2},{"val":2},{"val":1}],"date":"2018-09-21T04:10:48","ts":"25.277340875","type":"key","lvl":"INFO","id":"0x5934"},"hash":"7d4c41ea4c84da1d51"}
+{"entry":{"val":"Safe speed monitoring: %u basic zone(s) unused, %u taken into account.","data":[{"val":2},{"val":6}],"date":"2018-09-21T04:10:48","ts":"25.288521927","type":"key","lvl":"WARN","id":"0x592B"},"hash":"38bb31402a4d6f263e"}
+{"entry":{"val":"Safe speed monitoring: %u safe zone(s) built using %u basic volume(s), %u control point(s).","data":[{"val":2},{"val":6},{"val":2}],"date":"2018-09-21T04:10:48","ts":"25.288539097","type":"key","lvl":"INFO","id":"0x5929"},"hash":"a3d97536ecc08aa99e"}
+{"entry":{"date":"2018-09-21T04:10:48","ts":"25.289163324","type":"msg","lvl":"INFO","id":"0x0003","val":"Safe speed monitoring update triggered and successful."},"hash":"16f0859490d0d0bc88"}
+{"entry":{"val":"Encoder assembly quality axis %u: OK (abs: %u, inc: %u, position: %u)","data":[{"val":1},{"val":245},{"val":238},{"val":254}],"date":"2018-09-21T04:11:01","ts":"38.626915309","type":"key","lvl":"INFO","id":"0x600B"},"hash":"dab5ce41835ce9c49f"}
+{"entry":{"val":"Encoder assembly quality axis %u: OK (abs: %u, inc: %u, position: %u)","data":[{"val":2},{"val":251},{"val":245},{"val":254}],"date":"2018-09-21T04:11:01","ts":"38.739062251","type":"key","lvl":"INFO","id":"0x600B"},"hash":"4f3f9557cf75161844"}
+{"entry":{"val":"Encoder assembly quality axis %u: OK (abs: %u, inc: %u, position: %u)","data":[{"val":3},{"val":245},{"val":239},{"val":254}],"date":"2018-09-21T04:11:01","ts":"38.850945563","type":"key","lvl":"INFO","id":"0x600B"},"hash":"01693c1aa71e02aed0"}
+{"entry":{"val":"Encoder assembly quality axis %u: OK (abs: %u, inc: %u, position: %u)","data":[{"val":4},{"val":254},{"val":254},{"val":254}],"date":"2018-09-21T04:11:01","ts":"38.966909418","type":"key","lvl":"INFO","id":"0x600B"},"hash":"061cb679afc8bbf1b7"}
+{"entry":{"val":"Encoder assembly quality axis %u: OK (abs: %u, inc: %u, position: %u)","data":[{"val":5},{"val":230},{"val":217},{"val":254}],"date":"2018-09-21T04:11:01","ts":"39.082949888","type":"key","lvl":"INFO","id":"0x600B"},"hash":"1e9996d89639c3126c"}
+{"entry":{"val":"Encoder assembly quality axis %u: OK (abs: %u, inc: %u, position: %u)","data":[{"val":6},{"val":244},{"val":243},{"val":254}],"date":"2018-09-21T04:11:02","ts":"39.199063608","type":"key","lvl":"INFO","id":"0x600B"},"hash":"0877c15efaf1326fad"}
+{"entry":{"date":"2018-09-21T04:11:06","ts":"43.965353774","type":"msg","lvl":"INFO","id":"0x0003","val":"Starc9 Recorder built and init"},"hash":"0c7a30671fae0b5018"}
+{"entry":{"val":"Refresh position started for all axes.","date":"2018-09-21T04:11:06","ts":"43.969356350","type":"key","lvl":"INFO","id":"0x151D"},"hash":"695501e4e68c583bbe"}
+{"entry":{"val":"Phasing written to starc9 : axis %u.","data":[{"val":1}],"date":"2018-09-21T04:11:07","ts":"44.890931981","type":"key","lvl":"INFO","id":"0x0D06"},"hash":"e42c719d4e739431db"}
+{"entry":{"val":"Phasing written to starc9 : axis %u.","data":[{"val":2}],"date":"2018-09-21T04:11:09","ts":"46.470937000","type":"key","lvl":"INFO","id":"0x0D06"},"hash":"55f196322c75d1b87a"}
+{"entry":{"val":"Phasing written to starc9 : axis %u.","data":[{"val":3}],"date":"2018-09-21T04:11:10","ts":"48.014965869","type":"key","lvl":"INFO","id":"0x0D06"},"hash":"d8e2ac806a1bd3608b"}
+{"entry":{"val":"Phasing written to starc9 : axis %u.","data":[{"val":4}],"date":"2018-09-21T04:11:12","ts":"49.594936557","type":"key","lvl":"INFO","id":"0x0D06"},"hash":"02e6c7b39644ef55f6"}
+{"entry":{"val":"Phasing written to starc9 : axis %u.","data":[{"val":5}],"date":"2018-09-21T04:11:14","ts":"51.210967679","type":"key","lvl":"INFO","id":"0x0D06"},"hash":"7c562855c5c671788f"}
+{"entry":{"val":"Phasing written to starc9 : axis %u.","data":[{"val":6}],"date":"2018-09-21T04:11:15","ts":"52.754955848","type":"key","lvl":"INFO","id":"0x0D06"},"hash":"69aec417fbdd2c49e3"}
+{"entry":{"val":"Refresh position succeeded.","date":"2018-09-21T04:11:16","ts":"53.422438387","type":"key","lvl":"INFO","id":"0x151E"},"hash":"99a2aa948d69245f67"}
+{"entry":{"val":"REST server created [%d].","data":[{"val":2400}],"date":"2018-09-21T04:11:16","ts":"53.487405052","type":"key","lvl":"INFO","id":"0x7801"},"hash":"eb13b0ed7adf1eaa2b"}
+{"entry":{"date":"2018-09-21T04:11:16","ts":"53.537267047","type":"msg","lvl":"INFO","id":"0x0003","val":"COM-PC: server created on all interfaces [5653]"},"hash":"7c337738afcc91a70a"}
+{"entry":{"date":"2018-09-21T04:11:16","ts":"53.551413460","type":"msg","lvl":"INFO","id":"0x2401","val":"Arm Mounting: floor"},"hash":"6f7fa0c596a0e831e7"}
+{"entry":{"date":"2018-09-21T04:11:16","ts":"53.553350813","type":"msg","lvl":"INFO","id":"0x2401","val":"Arm Name: ?"},"hash":"3d957f732f4fbd2ba2"}
+{"entry":{"date":"2018-09-21T04:11:16","ts":"53.553413299","type":"msg","lvl":"INFO","id":"0x2401","val":"Arm OilType: STD"},"hash":"b76053b8103cba65ce"}
+{"entry":{"date":"2018-09-21T04:11:16","ts":"53.553425547","type":"msg","lvl":"INFO","id":"0x2401","val":"Arm S/N: F18_5GZXA1_A_01"},"hash":"521cf784f7aca3a5f9"}
+{"entry":{"date":"2018-09-21T04:11:16","ts":"53.553434988","type":"msg","lvl":"INFO","id":"0x2401","val":"Arm Tuning: R1-V6"},"hash":"d3854fe2c2b1a56f45"}
+{"entry":{"date":"2018-09-21T04:11:16","ts":"53.553443539","type":"msg","lvl":"INFO","id":"0x2401","val":"Arm Type: tx2_90-S1"},"hash":"6e1eae1c0bdbef8bb7"}
+{"entry":{"date":"2018-09-21T04:11:16","ts":"53.553452169","type":"msg","lvl":"INFO","id":"0x2401","val":"Arm Version: tx2_90-S1-R1-V6"},"hash":"7980f23ac11bdd1a5b"}
+{"entry":{"date":"2018-09-21T04:11:16","ts":"53.553461100","type":"msg","lvl":"INFO","id":"0x2401","val":"CFAST P/N: D61046701E"},"hash":"de0cbd1968041edb26"}
+{"entry":{"date":"2018-09-21T04:11:16","ts":"53.553473237","type":"msg","lvl":"INFO","id":"0x2401","val":"CPT Hardware revision: 5"},"hash":"89a02e7635dfeddc2d"}
+{"entry":{"date":"2018-09-21T04:11:16","ts":"53.553482219","type":"msg","lvl":"INFO","id":"0x2401","val":"CPT Name: D3-DU 335/C-2150-01"},"hash":"89d44c9e3df41af737"}
+{"entry":{"date":"2018-09-21T04:11:16","ts":"53.553489686","type":"msg","lvl":"INFO","id":"0x2401","val":"CPT O/N: 95686"},"hash":"23531b887b9dcc7974"}
+{"entry":{"date":"2018-09-21T04:11:16","ts":"53.553497836","type":"msg","lvl":"INFO","id":"0x2401","val":"CPT P/N: D24404100F"},"hash":"8ce68ee149a1249541"}
+{"entry":{"date":"2018-09-21T04:11:16","ts":"53.553505804","type":"msg","lvl":"INFO","id":"0x2401","val":"CPT S/N: 18355181"},"hash":"269500ad83d027f27e"}
+{"entry":{"date":"2018-09-21T04:11:16","ts":"53.553515166","type":"msg","lvl":"INFO","id":"0x2401","val":"CPU/SBL BIOS: BIOS_NXTC_ST_07.05"},"hash":"359f6cb7dad3d48dcc"}
+{"entry":{"date":"2018-09-21T04:11:16","ts":"53.553523726","type":"msg","lvl":"INFO","id":"0x2401","val":"CPU/SBL FPGA: CP800_FPGA_ST_1.08"},"hash":"dfcd5b794aaa23e355"}
+{"entry":{"date":"2018-09-21T04:11:16","ts":"53.553534611","type":"msg","lvl":"INFO","id":"0x2401","val":"CPU/SBL Hardware revision: 5"},"hash":"332d4e24a96cf154f9"}
+{"entry":{"date":"2018-09-21T04:11:16","ts":"53.553543262","type":"msg","lvl":"INFO","id":"0x2401","val":"CPU/SBL MMI: DU300MMI_FW_01.01"},"hash":"8a53c642290c5920a3"}
+{"entry":{"date":"2018-09-21T04:11:16","ts":"53.553551340","type":"msg","lvl":"INFO","id":"0x2401","val":"CPU/SBL O/N: 93585"},"hash":"8e86653d408020df8e"}
+{"entry":{"date":"2018-09-21T04:11:16","ts":"53.553559328","type":"msg","lvl":"INFO","id":"0x2401","val":"CPU/SBL S/N: 18197973"},"hash":"0be3f513b20151ef2c"}
+{"entry":{"date":"2018-09-21T04:11:16","ts":"53.553567288","type":"msg","lvl":"INFO","id":"0x2401","val":"CPU/SBL SDK: 1.12.0+~d8"},"hash":"9be6e23d201a891615"}
+{"entry":{"date":"2018-09-21T04:11:16","ts":"53.553575908","type":"msg","lvl":"INFO","id":"0x2401","val":"CS9Logical P/N: D24340000G"},"hash":"e700e817dd47df4874"}
+{"entry":{"date":"2018-09-21T04:11:16","ts":"53.553588055","type":"msg","lvl":"INFO","id":"0x2401","val":"Configuration Version: c2.016"},"hash":"2c4b9e42855af4f624"}
+{"entry":{"date":"2018-09-21T04:11:16","ts":"53.554318562","type":"msg","lvl":"INFO","id":"0x2401","val":"Controller S/N: F18_5GZXA1_C_01"},"hash":"6d5c858956aa53fe80"}
+{"entry":{"date":"2018-09-21T04:11:16","ts":"53.554338981","type":"msg","lvl":"INFO","id":"0x2401","val":"DSI FPGA: 13"},"hash":"da313f83f77e674092"}
+{"entry":{"date":"2018-09-21T04:11:16","ts":"53.554350358","type":"msg","lvl":"INFO","id":"0x2401","val":"DSI Firmware: 0.1.1.36"},"hash":"7b89e5f0223e39515c"}
+{"entry":{"date":"2018-09-21T04:11:16","ts":"53.554362146","type":"msg","lvl":"INFO","id":"0x2401","val":"DSI Hardware revision: 06"},"hash":"f84ed4634e2b0ba430"}
+{"entry":{"date":"2018-09-21T04:11:16","ts":"53.554371046","type":"msg","lvl":"INFO","id":"0x2401","val":"DSI Name: D3-SMM362/A-0250-00"},"hash":"5ee49d3d901363b716"}
+{"entry":{"date":"2018-09-21T04:11:16","ts":"53.554378735","type":"msg","lvl":"INFO","id":"0x2401","val":"DSI O/N: 99731"},"hash":"615dc1e780eb756286"}
+{"entry":{"date":"2018-09-21T04:11:16","ts":"53.554386964","type":"msg","lvl":"INFO","id":"0x2401","val":"DSI P/N: D24403903B"},"hash":"81a4d871c47cf1124d"}
+{"entry":{"date":"2018-09-21T04:11:16","ts":"53.554395133","type":"msg","lvl":"INFO","id":"0x2401","val":"DSI S/N: 18068253"},"hash":"49e91cacd58c103f53"}
+{"entry":{"date":"2018-09-21T04:11:16","ts":"53.554407071","type":"msg","lvl":"INFO","id":"0x2401","val":"DSI Sensor1: IdNb=826980-52 ; SerialNb=  61660931 A"},"hash":"e4ac1cccdd0d6cb0f7"}
+{"entry":{"date":"2018-09-21T04:11:17","ts":"53.554416132","type":"msg","lvl":"INFO","id":"0x2401","val":"DSI Sensor2: IdNb=826980-52 ; SerialNb=  61660964 A"},"hash":"a6f4e030a1df34fcb9"}
+{"entry":{"date":"2018-09-21T04:11:17","ts":"53.554425244","type":"msg","lvl":"INFO","id":"0x2401","val":"DSI Sensor3: IdNb=826980-52 ; SerialNb=  62538167 A"},"hash":"936a559c29b120350e"}
+{"entry":{"date":"2018-09-21T04:11:17","ts":"53.554434305","type":"msg","lvl":"INFO","id":"0x2401","val":"DSI Sensor4: IdNb=826980-52 ; SerialNb=  62232703 A"},"hash":"3cb8f06dfd8f518f02"}
+{"entry":{"date":"2018-09-21T04:11:17","ts":"53.554498255","type":"msg","lvl":"INFO","id":"0x2401","val":"DSI Sensor5: IdNb=826980-52 ; SerialNb=  61837560 A"},"hash":"4f5ffdacf6b815f8be"}
+{"entry":{"date":"2018-09-21T04:11:17","ts":"53.554509331","type":"msg","lvl":"INFO","id":"0x2401","val":"DSI Sensor6: IdNb=826980-52 ; SerialNb=  60165828  "},"hash":"84a6f9c59bb9dce35a"}
+{"entry":{"date":"2018-09-21T04:11:17","ts":"53.554518864","type":"msg","lvl":"INFO","id":"0x2401","val":"Hilscher SDK: cifX Toolkit 1.2.0.0"},"hash":"0faacb5c1f20e502ef"}
+{"entry":{"date":"2018-09-21T04:11:17","ts":"53.554530311","type":"msg","lvl":"INFO","id":"0x2401","val":"J207J208 Protocol: PROFINET Device"},"hash":"6227dd48c57222f09e"}
+{"entry":{"date":"2018-09-21T04:11:17","ts":"53.554539422","type":"msg","lvl":"INFO","id":"0x2401","val":"Option VAL 3: enabled"},"hash":"71c180d51bf8452380"}
+{"entry":{"date":"2018-09-21T04:11:17","ts":"53.554550187","type":"msg","lvl":"INFO","id":"0x2401","val":"PowerSupply Name: URPS 9.1 325VDC 3P"},"hash":"c33d845f069aba223f"}
+{"entry":{"date":"2018-09-21T04:11:17","ts":"53.554559369","type":"msg","lvl":"INFO","id":"0x2401","val":"REST_API Date: Apr 18 2018"},"hash":"3980cb90cd0a2bc6cd"}
+{"entry":{"date":"2018-09-21T04:11:17","ts":"53.554567498","type":"msg","lvl":"INFO","id":"0x2401","val":"REST_API Time: 08:49:39"},"hash":"2df10fa79a2ca12f84"}
+{"entry":{"date":"2018-09-21T04:11:17","ts":"53.554577291","type":"msg","lvl":"INFO","id":"0x2401","val":"REST_API Version: s8.5.4cs9_BS1251"},"hash":"dec25da707aedda9ed"}
+{"entry":{"date":"2018-09-21T04:11:17","ts":"53.554588117","type":"msg","lvl":"INFO","id":"0x2401","val":"RSI Configuration CRC: 993866388"},"hash":"ac528ffa597e277951"}
+{"entry":{"date":"2018-09-21T04:11:17","ts":"53.554595344","type":"msg","lvl":"INFO","id":"0x2401","val":"RSI FPGA: 3"},"hash":"39b6109920a487ae0b"}
+{"entry":{"date":"2018-09-21T04:11:17","ts":"53.554970232","type":"msg","lvl":"INFO","id":"0x2401","val":"RSI Firmware: 1.0.1.10F"},"hash":"8ee1053178b9b5828f"}
+{"entry":{"date":"2018-09-21T04:11:17","ts":"53.554978802","type":"msg","lvl":"INFO","id":"0x2401","val":"RSI Hardware: 7"},"hash":"e3c105d0e8b2615cfe"}
+{"entry":{"date":"2018-09-21T04:11:17","ts":"53.554986651","type":"msg","lvl":"INFO","id":"0x2401","val":"RSI Name: SCP855"},"hash":"4351c005c3d239a9ab"}
+{"entry":{"date":"2018-09-21T04:11:17","ts":"53.554997266","type":"msg","lvl":"INFO","id":"0x2401","val":"RSI Program CRC: 1647715867"},"hash":"bc09792f0608ffdcef"}
+{"entry":{"date":"2018-09-21T04:11:17","ts":"53.555005455","type":"msg","lvl":"INFO","id":"0x2401","val":"RSI S/N: 18111630"},"hash":"d4d16364253ac667b2"}
+{"entry":{"date":"2018-09-21T04:11:17","ts":"53.555013814","type":"msg","lvl":"INFO","id":"0x2401","val":"RSI Software: 200.001"},"hash":"bd081782da37a25bd5"}
+{"entry":{"date":"2018-09-21T04:11:17","ts":"53.555022736","type":"msg","lvl":"INFO","id":"0x2401","val":"SP2 Firmware: 2.11"},"hash":"32baced4d5f1d56809"}
+{"entry":{"date":"2018-09-21T04:11:17","ts":"53.555030324","type":"msg","lvl":"INFO","id":"0x2401","val":"SP2 O/N: 95943"},"hash":"ab54f5d77b5bee5706"}
+{"entry":{"date":"2018-09-21T04:11:17","ts":"53.555038403","type":"msg","lvl":"INFO","id":"0x2401","val":"SP2 P/N: D21144504A"},"hash":"e88b8b673a719f03f7"}
+{"entry":{"date":"2018-09-21T04:11:17","ts":"53.555046532","type":"msg","lvl":"INFO","id":"0x2401","val":"SP2 S/N: 18274525"},"hash":"c4e63eeee77a3bf236"}
+{"entry":{"date":"2018-09-21T04:11:17","ts":"53.555054943","type":"msg","lvl":"INFO","id":"0x2401","val":"SP2 Software: 1.0.5"},"hash":"75c27e3d65882f682d"}
+{"entry":{"date":"2018-09-21T04:11:17","ts":"53.555065467","type":"msg","lvl":"INFO","id":"0x2401","val":"Starc Drive Axis1: Id: 19"},"hash":"58dd0783337b557b67"}
+{"entry":{"date":"2018-09-21T04:11:17","ts":"53.555075130","type":"msg","lvl":"INFO","id":"0x2401","val":"Starc Drive Axis2: Id: 19"},"hash":"e39b347d1c66e17a45"}
+{"entry":{"date":"2018-09-21T04:11:17","ts":"53.555084483","type":"msg","lvl":"INFO","id":"0x2401","val":"Starc Drive Axis3: Id: 19"},"hash":"609aee20c7af2b8676"}
+{"entry":{"date":"2018-09-21T04:11:17","ts":"53.555093854","type":"msg","lvl":"INFO","id":"0x2401","val":"Starc Drive Axis4: Id: 19"},"hash":"f3ea85879bde36497a"}
+{"entry":{"date":"2018-09-21T04:11:17","ts":"53.555103126","type":"msg","lvl":"INFO","id":"0x2401","val":"Starc Drive Axis5: Id: 19"},"hash":"5baa28ba4ff67c699f"}
+{"entry":{"date":"2018-09-21T04:11:17","ts":"53.555112449","type":"msg","lvl":"INFO","id":"0x2401","val":"Starc Drive Axis6: Id: 19"},"hash":"9bc363b5ac582152cc"}
+{"entry":{"date":"2018-09-21T04:11:17","ts":"53.555120187","type":"msg","lvl":"INFO","id":"0x2401","val":"Starc EEPROM: 2"},"hash":"d88ec0f808fed67b1f"}
+{"entry":{"date":"2018-09-21T04:11:17","ts":"53.555128818","type":"msg","lvl":"INFO","id":"0x2401","val":"Starc FPGA: 256.000A-25"},"hash":"53ba90e6162de4740a"}
+{"entry":{"date":"2018-09-21T04:11:17","ts":"53.555137388","type":"msg","lvl":"INFO","id":"0x2401","val":"Starc P/N: D24399901C"},"hash":"4a31c5556ce56bfc2b"}
+{"entry":{"date":"2018-09-21T04:11:17","ts":"53.555144675","type":"msg","lvl":"INFO","id":"0x2401","val":"Starc S/N: 2556"},"hash":"0dae6cae6d06078a0d"}
+{"entry":{"date":"2018-09-21T04:11:17","ts":"53.555153095","type":"msg","lvl":"INFO","id":"0x2401","val":"Starc Version: 9.3 v0.4.1"},"hash":"38058f411f15562b9e"}
+{"entry":{"date":"2018-09-21T04:11:17","ts":"53.555161796","type":"msg","lvl":"INFO","id":"0x2401","val":"System: s8.5.4cs9_BS1251"},"hash":"299a234d4cc7613f16"}
+{"entry":{"date":"2018-09-21T04:11:17","ts":"53.555170105","type":"msg","lvl":"INFO","id":"0x2401","val":"System Date: Apr 18 2018"},"hash":"43f2179a2690604cac"}
+{"entry":{"date":"2018-09-21T04:11:17","ts":"53.555178074","type":"msg","lvl":"INFO","id":"0x2401","val":"System OS: 01.12"},"hash":"315bcd84a66e18b128"}
+{"entry":{"date":"2018-09-21T04:11:17","ts":"53.555186394","type":"msg","lvl":"INFO","id":"0x2401","val":"System Time: 08:58:20"},"hash":"5331ac3ce3f3caf16c"}
+{"entry":{"val":"New profile : %s.","data":[{"val":"maintenance"}],"date":"2018-09-21T04:11:17","ts":"53.677074520","type":"key","lvl":"INFO","id":"0x2201"},"hash":"2d263d7156719dea36"}
+{"entry":{"date":"2018-09-21T04:11:17","ts":"54.557404283","type":"msg","lvl":"INFO","id":"0x2401","val":"End of controller initialization"},"hash":"55b8e35b55e64204da"}
+{"entry":{"val":"Working mode : manual.","date":"2018-09-21T04:11:17","ts":"54.621976501","type":"key","lvl":"INFO","id":"0x1802"},"hash":"a0e71eaa10e00bc516"}
+{"entry":{"date":"2018-09-21T04:11:17","ts":"54.625578657","type":"msg","lvl":"INFO","id":"0x2402","val":"Simulated MCP connected"},"hash":"0a7b644bc954d0beb1"}
+{"entry":{"date":"2018-09-21T04:11:18","ts":"55.875105295","type":"msg","lvl":"INFO","id":"0x2402","val":"Mcp = TSimulated"},"hash":"7c72359b9b57f1a5cb"}
+{"entry":{"date":"2018-09-21T04:11:18","ts":"55.892097592","type":"msg","lvl":"INFO","id":"0x2402","val":"Mcp communication established"},"hash":"bbbce9185b57cbe999"}
+{"entry":{"date":"2018-09-21T04:13:01","ts":"159.044152377","type":"msg","lvl":"INFO","id":"0x2402","val":"COM-PC: create session 192.168.0.123 on port 53022 id=#1"},"hash":"fd8faca0bfadd0c17c"}
+{"entry":{"date":"2018-09-21T04:13:19","ts":"176.484117358","type":"msg","lvl":"INFO","id":"0x2402","val":"COM-PC: destroy session 192.168.0.123 on port 53022 id=#1"},"hash":"135f440d6998a2def1"}
+{"entry":{"date":"2018-09-21T04:16:21","ts":"358.861246906","type":"msg","lvl":"INFO","id":"0x2402","val":"COM-PC: create session 192.168.0.123 on port 53266 id=#2"},"hash":"2b16eb9f99ea744d4c"}
+{"entry":{"date":"2018-09-21T04:16:36","ts":"373.528107820","type":"msg","lvl":"INFO","id":"0x2402","val":"COM-PC: destroy session 192.168.0.123 on port 53266 id=#2"},"hash":"7636975efdaa167d9a"}
+{"entry":{"date":"2018-09-21T04:21:05","ts":"642.749395838","type":"msg","lvl":"INFO","id":"0x2402","val":"COM-PC: create session 192.168.0.88 on port 55712 id=#3"},"hash":"3f95a5aaccd62de65d"}
+{"entry":{"date":"2018-09-21T04:21:18","ts":"655.671268942","type":"msg","lvl":"INFO","id":"0x2402","val":"COM-PC: destroy session 192.168.0.88 on port 55712 id=#3"},"hash":"8a1cfc663baf69206f"}
+{"entry":{"date":"2018-09-21T04:21:49","ts":"686.782445413","type":"msg","lvl":"INFO","id":"0x2402","val":"COM-PC: create session 192.168.0.88 on port 55721 id=#4"},"hash":"e8291b14b28fdbf55d"}
+{"entry":{"date":"2018-09-21T04:22:08","ts":"705.663463799","type":"msg","lvl":"INFO","id":"0x2402","val":"COM-PC: destroy session 192.168.0.88 on port 55721 id=#4"},"hash":"6380d606fd257fbb1d"}
+{"entry":{"val":"Safety signal %s ON.","data":[{"val":"ENABLING"}],"date":"2018-09-21T04:22:22","ts":"719.901980794","type":"key","lvl":"INFO","id":"0x5915"},"hash":"fc61727c4ae5b85919"}
+{"entry":{"val":"Safety signal %s OFF.","data":[{"val":"ENABLING"}],"date":"2018-09-21T04:22:22","ts":"720.025962375","type":"key","lvl":"INFO","id":"0x5914"},"hash":"5f8e9536f232703760"}
+{"entry":{"val":"Working mode : remote.","date":"2018-09-21T04:26:39","ts":"976.717964109","type":"key","lvl":"INFO","id":"0x1804"},"hash":"07f9090de55db6b89d"}
+{"entry":{"val":"Saving controller context...","date":"2018-09-21T04:26:43","ts":"980.221417375","type":"key","lvl":"INFO","id":"0x5B01"},"hash":"b151dd3fccaf823d02"}
+{"entry":{"val":"CPU temperature: %g degC","data":[{"val":56.000000000}],"date":"2018-09-21T04:26:43","ts":"980.623136749","type":"key","lvl":"INFO","id":"0x5B02"},"hash":"972845a4ae9b8d436d"}
+{"entry":{"val":"Baseboard temperature: %g degC","data":[{"val":41.000000000}],"date":"2018-09-21T04:26:43","ts":"980.625595171","type":"key","lvl":"INFO","id":"0x5B03"},"hash":"c146b15b2ffaf37c0b"}
+{"entry":{"val":"CPU fan speed: %g RPM","data":[{"val":4416.000000000}],"date":"2018-09-21T04:26:43","ts":"980.626472460","type":"key","lvl":"INFO","id":"0x5B04"},"hash":"c1bdb7633e1f2662b9"}
+{"entry":{"val":"No CPU Overcurrent.","date":"2018-09-21T04:26:43","ts":"980.626477322","type":"key","lvl":"INFO","id":"0x5B07"},"hash":"27d6c7663bb5ae0959"}
+{"entry":{"val":"CPU Battery is OK","date":"2018-09-21T04:26:43","ts":"980.626481152","type":"key","lvl":"INFO","id":"0x5B05"},"hash":"d39578605ffdbc0a74"}
+{"entry":{"date":"2018-09-21T04:27:10","ts":"1007.927055879","type":"msg","lvl":"INFO","id":"0x2402","val":"COM-PC: create session 192.168.0.88 on port 55752 id=#5"},"hash":"69b7b198669ffc67bd"}
+{"entry":{"date":"2018-09-21T04:27:48","ts":"1045.691493659","type":"msg","lvl":"INFO","id":"0x2402","val":"COM-PC: destroy session 192.168.0.88 on port 55752 id=#5"},"hash":"d1af7f1d8a04126f60"}
+{"entry":{"date":"2018-09-21T04:29:29","ts":"1146.267084944","type":"msg","lvl":"INFO","id":"0x2402","val":"COM-PC: create session 192.168.0.88 on port 55779 id=#6"},"hash":"1f73b6746cf038d945"}
+{"entry":{"date":"2018-09-21T04:29:48","ts":"1165.711295896","type":"msg","lvl":"INFO","id":"0x2402","val":"COM-PC: destroy session 192.168.0.88 on port 55779 id=#6"},"hash":"f3e440f2640e3f983f"}
+{"entry":{"date":"2018-09-21T04:30:36","ts":"1213.302491530","type":"msg","lvl":"INFO","id":"0x2402","val":"COM-PC: create session 192.168.0.88 on port 55793 id=#7"},"hash":"307549cb934056f03d"}
+{"entry":{"date":"2018-09-21T04:30:58","ts":"1236.183310871","type":"msg","lvl":"INFO","id":"0x2402","val":"COM-PC: destroy session 192.168.0.88 on port 55793 id=#7"},"hash":"e86e00ad404eb5e4fd"}
+{"entry":{"date":"2018-09-21T04:31:05","ts":"1242.913110251","type":"msg","lvl":"INFO","id":"0x2402","val":"COM-PC: create session 192.168.0.88 on port 55799 id=#8"},"hash":"1f40cb5f46edb917b5"}
+{"entry":{"date":"2018-09-21T04:31:21","ts":"1258.740593850","type":"msg","lvl":"INFO","id":"0x2402","val":"COM-PC: destroy session 192.168.0.88 on port 55799 id=#8"},"hash":"09bad87262b0ca9663"}

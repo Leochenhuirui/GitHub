@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CellUserOptions>
+  <Option Name="DataTreeView" />
+  <Option Name="CellExplorer">
+    <Nodes>
+      <Node Path="Robot_Metal_1006_SFQ" IsExpanded="true" />
+      <Node Path="Robot_Metal_1006_SFQ\Controller1006" IsExpanded="true" />
+    </Nodes>
+  </Option>
+  <Option Name="GeometryView" />
+  <Option Name="Breakpoints">
+    <Breakpoints />
+  </Option>
+  <Option Name="IOsControlPanel">
+    <Ios />
+  </Option>
+  <Option Name="Watches">
+    <Watches />
+  </Option>
+  <Option Name="3DView">
+    <_3DView Visible="false" />
+  </Option>
+  <Option Name="SynchronizerMode">
+    <Synchronizers>
+      <Synchronizer Controller="Controller1006" Mode="Emulator" />
+    </Synchronizers>
+  </Option>
+  <Option Name="Safety">
+    <Safeties>
+      <Safety Controller="Controller1006" Visible="false" />
+    </Safeties>
+  </Option>
+</CellUserOptions>
